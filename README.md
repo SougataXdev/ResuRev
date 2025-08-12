@@ -12,7 +12,6 @@ Transform your resume with intelligent AI feedback and land your dream job
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.4-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ed?style=for-the-badge&logo=docker)](https://docker.com/)
 
-[🔗 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
 
 </div>
 
