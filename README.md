@@ -20,12 +20,6 @@ Transform your resume with intelligent AI feedback and land your dream job
 
 ## ✨ Features
 
-### 🎯 Core Functionality
-- **AI-Powered Analysis** - Advanced resume scanning with intelligent feedback
-- **ATS Optimization** - Ensure your resume passes Applicant Tracking Systems
-- **Real-time Scoring** - Get instant scores across multiple categories
-- **Smart Suggestions** - Priority-based improvement recommendations
-- **Multi-format Support** - Upload PDF, DOC, and DOCX files
 
 ### 🎨 User Experience
 - **Responsive Design** - Seamless experience across all devices
