@@ -48,7 +48,7 @@ Transform your resume with intelligent AI feedback and land your dream job
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/resurev.git
+git clone https://github.com/SougataXdev/resurev.git
 cd resurev
 
 # Install dependencies
