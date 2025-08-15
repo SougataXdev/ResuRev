@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Clipboard, ClipboardList, Command, Menu } from "lucide-react";
+import { ClipboardList, Menu } from "lucide-react";
 import { Button } from "./ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "./ui/sheet";
 import { Link } from "react-router";
@@ -83,7 +83,7 @@ const Navigation = () => {
               size="sm"
               className="button-gradient rounded-full"
             >
-              <Link to="/signup">Get Started</Link>
+              <Link to="/auth">Get Started</Link>
             </Button>
           </div>
 
@@ -113,15 +113,17 @@ const Navigation = () => {
                       {item.name}
                     </a>
                   ))}
-                  <Button 
+                  <Link to="/auth">
+                  <Button
                     onClick={() => {
                       setIsMobileMenuOpen(false);
                       scrollToSection('cta');
                     }}
                     className="button-gradient mt-4"
                   >
-                    <Link to="/signup">Get Started</Link>
+                    Get Started
                   </Button>
+                  </Link>
                 </div>
               </SheetContent>
             </Sheet>
